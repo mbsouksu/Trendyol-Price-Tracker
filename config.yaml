@@ -1,0 +1,8 @@
+Sender: #Sender info
+  email: 
+  password: 
+Receiver: #Reciever info
+  email: 
+Product: #Follow a similar pattern for the links and target prices(It will work if price lower than this)
+  [link1]: [target_price1]
+  [link2]: [target_price2]
